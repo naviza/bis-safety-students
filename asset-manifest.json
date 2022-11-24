@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bis-safety-students/static/css/main.691d0a70.css",
+    "main.js": "/bis-safety-students/static/js/main.009266fb.js",
+    "static/js/787.b96cd602.chunk.js": "/bis-safety-students/static/js/787.b96cd602.chunk.js",
+    "index.html": "/bis-safety-students/index.html",
+    "main.691d0a70.css.map": "/bis-safety-students/static/css/main.691d0a70.css.map",
+    "main.009266fb.js.map": "/bis-safety-students/static/js/main.009266fb.js.map",
+    "787.b96cd602.chunk.js.map": "/bis-safety-students/static/js/787.b96cd602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.691d0a70.css",
+    "static/js/main.009266fb.js"
+  ]
+}
